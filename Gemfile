@@ -6,6 +6,7 @@ gem "middleman", "~> 3.3.8"
 gem "middleman-blog", "~> 3.5.3"
 gem "middleman-sync"
 gem "middleman-disqus"
+gem 'middleman-dotenv'
 
 # Views
 gem 'slim'

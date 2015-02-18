@@ -29,6 +29,18 @@ activate :blog do |blog|
   # blog.page_link = "page/{num}"
 end
 
+configure :development do
+  activate :disqus do |d|
+    d.shortname = "sv-dev"
+  end
+end
+
+configure :build do
+  activate :disqus do |d|
+    d.shortname = "stevievines"
+  end
+end
+
 page "/feed.xml", layout: false
 
 ###

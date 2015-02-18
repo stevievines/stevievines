@@ -2,15 +2,19 @@ doctype html
 html
   head
     = partial "layouts/head"
-    title= "#{current_article.data.title} | by @steviedive"
+    title= "#{current_article.data.title} | by Stevie Vines"
   body
     a.logo href='/'
 
-    .post-header
-      h1.post-heading= current_article.data.title
-      h2.subheading= "Posted on #{current_article.data.date}"
-      span.meta Posted by Stevie Vines
+    header.intro-header style=("background-image: url('/images/don-stevie-web-dark.jpg')")
+      .container
+        .row
+          .col-lg-8.col-lg-offset-2.col-md-10.col-md-offset-1
+            .post-heading
+              h1= current_article.data.title
+              h2.subheading= "Posted on #{current_article.data.date}"
     .container
       .row
         .col-lg-8.col-lg-offset-2.col-md-10.col-md-offset-1
           = yield
+          = disqus

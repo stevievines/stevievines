@@ -8,9 +8,9 @@ published: false
 There's one thing every startup needs. It's not a certain angel investor, or rock star
 marketer, or even a team of programming wizards.
 
-###Every startup needs a beating heart.
+### Every startup needs a beating heart.
 
-Working at Kevy had become a burden. Not an intellectual burden, mind you, a spiritual one.
+Working at [Kevy](http://kevy.com) had become a burden. Not an intellectual burden, mind you, a spiritual one.
 I felt stuck; my learning pace slowed to a crawl, I was no longer consistently pairing with
 more experienced developers on new challenges, and each week brought with it a tireless army
 of frustrated customers demanding immediate solutions. I started wondering whether I was
@@ -61,11 +61,13 @@ _lot_ of mental situps before I look that that guy. Even so, I hope this brief p
 a shade of Don's baller-ness, because Kevy is very lucky to have him.
 
 In my (admittedly brief) time in the professional world, one thing has become abundantly clear to me:
-people, far more than the work you do, ultimately shape your experience and attitude towards your work (MORE INSIGHTFUL?). We're all
+it's the people, not the work, that make the job worth doing. We're all
 doing life together, drifting around the sun, and work (like everything else) is what we make it. It
 hurt when I realized that part of the reason working at Kevy became a burden was me. I stopped responding to
 the call to bring light and life to work when everyone else felt discouraged and defeated, and in doing
 so brought Kevy down rather than building it up.
+
+> It's the people, not the work, that make the job worth doing.
 
 Then Don came along and reminded me of the challenge and privilege it is to make your office a great
 place to work. He brought Kevy back to life during a critical time, and I'm thankful he decided

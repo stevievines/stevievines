@@ -4,6 +4,8 @@ source 'http://rubygems.org'
 
 gem "middleman", "~> 3.3.8"
 gem "middleman-blog", "~> 3.5.3"
+gem "middleman-sync"
+gem "middleman-disqus"
 
 # Views
 gem 'slim'

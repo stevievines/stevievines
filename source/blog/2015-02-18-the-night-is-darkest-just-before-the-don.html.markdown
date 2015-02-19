@@ -1,6 +1,6 @@
 ---
 title: The Night is Darkest Just Before the Don
-date: February 16, 2015
+date: February 18, 2015
 tags: kevy, work, mentorship, startup
 published: true
 ---

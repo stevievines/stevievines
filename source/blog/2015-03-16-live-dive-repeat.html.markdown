@@ -1,9 +1,9 @@
 ---
 title: Live<br>Di(v)e<br>Repeat
 background_image: /images/divingboard.jpg
-date: March 14, 2015
+date: March 16, 2015
 tags: diving, fear
-published: false
+published: true
 ---
 
 ### I've made the jump hundreds of times.

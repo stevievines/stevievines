@@ -1,5 +1,6 @@
 ---
 title: The Night is Darkest Just Before the Don
+background_image: /images/don-stevie-web-dark.jpg
 date: February 18, 2015
 tags: kevy, work, mentorship, startup
 published: true
@@ -73,5 +74,3 @@ Then Don came along and reminded me of the challenge and privilege it is to make
 place to work. He brought Kevy back to life during a critical time, and I'm thankful he decided
 to join our team. The Dons of the world may not be so rare as the cynics would have you believe,
 but when one comes along, better hire him, just to be safe.
-
-

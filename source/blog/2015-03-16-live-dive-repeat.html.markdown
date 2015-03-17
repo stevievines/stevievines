@@ -43,9 +43,7 @@ impossible unless you're willing to be comfortable being uncomfortable.
 is how it's a sport where you compete _with_, not _against_, your competitors. Divers cheer for
 each other at competitions and hang out on the pool deck between dives, regardless of our team identities,
 because we all are competing against ourselves to do our best list of dives. That's not to say I've never
-felt
-<a href='javascript:void(0);'>schadenfreude<img class='hidden' src="http://media0.giphy.com/media/H315tBsDtcGCk/200.gif" /></a>
-at another diver's misfortunes, but divers ultimately want everyone to do their best.
+felt schadenfreude at another diver's misfortunes, but divers ultimately want everyone to do their best.
 
 * __The physical challenge.__ Diving requires extreme flexibility, explosive strength, and
 fine-tuned coordination of every part of the body. The next step is finding a small enough

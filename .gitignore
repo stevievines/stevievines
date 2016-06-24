@@ -21,3 +21,6 @@
 
 *.swp
 *.swo
+
+# Ignore AWS credentials
+stevievines_credentials.csv

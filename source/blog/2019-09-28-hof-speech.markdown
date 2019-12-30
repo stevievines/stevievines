@@ -2,7 +2,7 @@
 title: Westminster Athletic Hall of Fame Speech
 background_image: /images/hof-dark.jpg
 date: September 28, 2019
-tags: work, travel, photo, fear, anxiety, hiking
+tags: diving
 published: true
 ---
 

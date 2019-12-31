@@ -140,8 +140,8 @@ to love my growing family of three as well as I can.
 On the close of another year (and another decade), I want to ask myself a question:
 Would I trade places with myself a year ago, given the opportunity? To say
 yes is to admit defeat, to accept that I haven't grown in the ways I care about,
-that I haven't had a positive trajectory. My answer is definitely no (despite
-life being simpler this time last year), and I want to say no next year too. What
+that I haven't had a positive trajectory. My answer is definitely no, despite
+life being simpler this time last year, and I want to say no next year too. What
 can I do to make sure that the me waiting at the end of 2020 is someone worthy of
 trading places with? How do I want to increase, and how do I want to decrease? Maybe
 I'll write some answers to these questions in 2020, if I can convince Don to keep

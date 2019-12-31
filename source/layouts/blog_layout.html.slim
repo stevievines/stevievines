@@ -6,7 +6,7 @@ html
   body
     a.logo href='/'
 
-    header.intro-header style=("background-image: url('#{current_article.data.background_image}')")
+    header.intro-header style=("background-image: url('#{current_article.data.background_image || '/images/blank.jpg'}')")
       .container
         .row
           .col-lg-10.col-lg-offset-2.col-md-10.col-md-offset-1
